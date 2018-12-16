@@ -148,11 +148,11 @@ For the creation of the low fidelity designs, pen and paper was used to draw the
 
 In our group we decided that the best methodology to use was the waterfall model, below are all the stages:
 
- - *Requirements*: Before the project began, all the requirements were discussed, this gave us a clear indication on how the app should be designed and the features it must have, as well as the features that it would be better to have. This stage was vigorously checked before moving onto the design phase, as there would be no going back to change any requirements later.
- - *Design*: Both low and high fidelity designs of the application were made, adhering to the requirements derived beforehand. The low fidelity design was completed with pen and paper, and the high fidelity designed were completed with marvelapp.com.
- - *Implementation*: This stage could not be demonstrated, but all that had to be done was to code the application in Java (for reasons stated in the project overview) and upload it to at least the Play Store and App Store.
- - *Testing*: Then, testing was done to ensure the robustness and security of the app, as well as checking to find any bugs.
- - *Maintenance*: Finally, the bugs that were found were removed and the application was made more secure, before its release into the open market.
+ - *Requirements*  
+ - *Design*
+ - *Implementation* 
+ - *Testing* 
+ - *Maintenance*
 
 
 From looking at the final design, we found that all the requirements were met. Due to us having great team working skills, this project was a massive success as we completed everything in a efficient manner. 
